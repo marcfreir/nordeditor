@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+nordeditorvenv/
+/nordeditorvenv/
 
 # Spyder project settings
 .spyderproject
